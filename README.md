@@ -1,33 +1,100 @@
-# Salut, moi c'est Andrews 
+#  Salut, moi c'est Andrews
 
-  Développeur web, passionnée par l'intégration de l'ia dans le développement, comme RAG ou automatisation.
-  Personellement je ne tiens pas pas beaucooup a apprendre divers technologies mais seulement les plus répondus et les plus populaires.
-  Mais si c'est nécessaire , l'apprentissage de nvouveaux technologies néest pas a nier.
+![Typing](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&lines=Frontend+Developer;AI+Enthusiast;RAG+%26+Automation+Builder;Always+Learning)
+
+---
 
 ##  À propos de moi
-- J’apprends actuellement : L'utilisatoin de docker pour le déploiement mais aussi dans le développement avec devcontainer.
-                            L'automatisation et l'exploiataino de l'IA dans le développement web
-- Objectif : Créer mes propre projets très exploitable dans la vie quotidienne, qui facilite la vie des utilisateurs meme si ils ne sont pas innovant
-- Je suis ouvert a toute offre concernant une offre de stage ou unee offre d'emploie
+Développeur web passionné par l’intégration de l’intelligence artificielle dans les systèmes modernes (RAG, automatisation, agents intelligents).
+
+Je privilégie les technologies **les plus utilisées et robustes**, mais je reste ouvert à l’apprentissage de nouveaux outils si le projet le nécessite.
+
+---
+
+##  Objectif
+Créer des projets utiles et concrets dans la vie quotidienne, capables de :
+- simplifier les tâches des utilisateurs
+- automatiser des processus
+- exploiter l’IA de manière intelligente (RAG, assistants, workflows)
+
+---
+
+##  Vision
+> Construire des systèmes intelligents qui rendent la technologie invisible mais utile.
+
+---
 
 ##  Tech Stack
--  Langages : JavaScript, TypeScript, Python, C#
--  Backend : Node.js, Express, FastAPI, Nest.js
--  Frontend : React.js Next.js
-- Base de données : PostgreSQL, MySQL, base de données vectorielles
-- Outils : Git, Docker, N8N
 
-##  Projets les plus performant
-###  Assistant conversationnel pour la consultation d'archives techniques internes
-- Un site web, qui dispose d'une système de chat comment les LLM mais configurer et spécifier pour le RAG
-- Stack : FastAPI, NextJS, Postgresql + extension vectoriel
+###  Langages
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🔹 Dashboard Admin
-- Interface avec Next.js
-- Gestion des utilisateurs + stats
+###  Backend
+- Node.js
+- Express
+- NestJS
+- FastAPI
 
-## Contact
-- Email : randrewsravalo@gmail.com
-- LinkedIn : www.linkedin.com/in/andrews-richarts-11257a361
+###  Frontend
+- React.js
+- Next.js
 
+###  Base de données
+- PostgreSQL
+- MySQL
+- Vector DB (pour RAG & IA)
 
+###  Outils
+- Git
+- Docker
+- Dev Containers
+- n8n (automation)
+
+---
+
+##  Projets principaux
+
+### 🤖 Assistant IA pour archives techniques (RAG System)
+Un système de chat intelligent inspiré des LLM, spécialisé dans la consultation d’archives internes.
+
+-  Recherche sémantique (vector DB)
+-  Architecture RAG
+-  Interface chat type AI assistant
+
+**Stack :**
+FastAPI • Next.js • PostgreSQL + extension vectorielle
+
+---
+
+###  Dashboard Admin
+- Interface moderne et responsive
+- Gestion des utilisateurs
+- Statistiques dynamiques
+
+**Stack :**
+Next.js • API backend
+
+---
+
+##  GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=radical)
+
+---
+
+##  Contribution Snake
+![snake](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+##  Contact
+- 📧 Email : randrewsravalo@gmail.com
+- 💼 LinkedIn : https://www.linkedin.com/in/andrews-richarts-11257a361
+
+---
+
+⭐ Toujours en train de construire, apprendre et automatiser.
