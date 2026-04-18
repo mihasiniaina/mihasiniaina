@@ -1,108 +1,100 @@
-# Mihasiniaina
+<div align="center">
+
+# 🟦 Mihasiniaina
 
 ![Typing](https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&lines=Ingénieur+Logiciel;Builder+IA+%26+Automatisation;Focus+RAG+%26+Systèmes+scalables)
 
----
-
-## 🧭 Présentation
-Développeur logiciel spécialisé dans la création de **systèmes web scalables**, avec une forte orientation vers l’intégration de **l’intelligence artificielle (RAG, agents, automatisation)** dans des applications réelles.
-
-Je privilégie :
-- les systèmes robustes et maintenables
-- les technologies éprouvées en production
-- la résolution de problèmes concrets plutôt que la multiplication des outils
+</div>
 
 ---
 
-## 🎯 Domaines de focus
-- Intégration de l’IA dans des systèmes de production (RAG, LLM, pipelines)
-- Conception d’architectures backend et d’API
-- Automatisation de processus et exploration des workflows intelligents
-- Développement de produits utiles et exploitables
+## 🧭 🖤 Présentation
+Développeur logiciel spécialisé dans la création de **systèmes web scalables**, avec une forte orientation vers l’intégration de **l’intelligence artificielle (RAG, agents, automatisation)**.
+
+🟢 Je privilégie :
+- systèmes robustes et maintenables  
+- technologies éprouvées en production  
+- résolution de problèmes concrets  
 
 ---
 
-## 🧠 Vision d’ingénierie
-> Construire des systèmes simples à faire évoluer, faciles à maintenir, et réellement utiles en production — pas seulement des démonstrations techniques.
+## 🎯 ⚡ Domaines de focus
+- IA appliquée (RAG, LLM, pipelines)
+- Architecture backend & API design
+- Systèmes intelligents et automatisation
+- Produits utiles et exploitables
 
 ---
 
-## 🛠️ Stack technique
+## 🧠 🧩 Vision d’ingénierie
+> ⚙️ Construire des systèmes simples, scalables et utiles en production.
 
-### Backend & systèmes
+---
+
+## 🛠️ 💻 Stack technique
+
+### Backend
 - Node.js / Express
 - NestJS
 - FastAPI
-- Python (automatisation & IA)
+- Python
 
 ### Frontend
 - React.js
 - Next.js
 
-### Données & IA
+### Data & IA
 - PostgreSQL
 - MySQL
-- Bases vectorielles (systèmes RAG)
-- Architecture basée sur LLM
+- Vector DB (RAG)
+- LLM systems
 
-### Dev & infrastructure
-- Docker / Dev Containers
+### Infra
+- Docker
 - Git
-- Bases CI/CD
+- CI/CD basics
 
 ---
 
-## 🧱 Projets clés
+## 🧱 🚀 Projets
 
-### 🧠 Système de recherche de connaissances IA (RAG)
-Assistant intelligent interne pour interroger des archives techniques.
+### 🧠 RAG Assistant IA
+Système de recherche intelligente sur documents techniques.
 
-**Fonctionnalités :**
-- Recherche sémantique via base vectorielle
-- Pipeline RAG (récupération + génération)
-- Interface de chat type assistant IA
-- Réponses contextualisées
+- recherche sémantique
+- pipeline RAG
+- chat IA contextualisé
 
-**Stack :**
-FastAPI • Next.js • PostgreSQL + extension vectorielle
+**Stack :** FastAPI • Next.js • PostgreSQL + vector DB
 
 ---
 
-### ⚙️ Plateforme d’automatisation de workflows (en exploration)
-Système en cours de conception pour comprendre et expérimenter les workflows intelligents.
-
-**Objectif :**
-- Comprendre les mécanismes d’automatisation
-- Expérimenter les intégrations API
-- Construire une base solide pour des systèmes futurs
+### ⚙️ Système d’automatisation (exploration)
+- conception de workflows intelligents
+- intégration API
+- architecture modulaire
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 📈 GitHub Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=mihasiniaina&show_icons=true&theme=radical)
 
-![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=mihasiniaina&layout=compact&theme=radical)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihasiniaina&layout=compact&theme=radical)
 
 ---
 
-## 🐍 Contributions Snake
+## 🐍 Contributions
+
 ![snake animation](https://raw.githubusercontent.com/mihasiniaina/mihasiniaina/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🧩 Direction actuelle
-- Industrialisation de fonctionnalités IA dans des applications réelles
-- Conception d’architectures backend propres et évolutives
-- Construction de systèmes centrés sur l’intelligence logicielle et l’automatisation
-
----
-
 ## 📫 Contact
-- Email : randrewsravalo@gmail.com
-- LinkedIn : https://www.linkedin.com/in/andrews-richarts-11257a361
+- 📧 Email : randrewsravalo@gmail.com  
+- 💼 LinkedIn : https://www.linkedin.com/in/andrews-richarts-11257a361  
 
 ---
 
 ## 🚀 Position actuelle
-Développement actif de systèmes à l’intersection de :
 **Ingénierie logicielle × Intelligence artificielle × Automatisation**
