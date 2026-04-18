@@ -1,6 +1,6 @@
 # Mihasiniaina
 
-![Typing](https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&lines=Ingénieur+Logiciel;Builder+IA+%26+Automatisation;Focus+RAG+%26+Systèmes+scalables)
+![Typing](https://readme-typing-svg.herokuapp.com?size=22&color=1E3A8A&lines=Ingénieur+Logiciel;Développeur+Web+Fullstack;Focus+RAG+%26+Systèmes+scalables)
 
 ---
 
