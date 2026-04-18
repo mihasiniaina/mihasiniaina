@@ -1,4 +1,4 @@
-# Andrews
+# Mihasiniaina
 
 ![Typing](https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&lines=Ingénieur+Logiciel;Builder+IA+%26+Automatisation;Focus+RAG+%26+Systèmes+scalables)
 
@@ -17,7 +17,7 @@ Je privilégie :
 ## 🎯 Domaines de focus
 - Intégration de l’IA dans des systèmes de production (RAG, LLM, pipelines)
 - Conception d’architectures backend et d’API
-- Automatisation de processus métiers (n8n, workflows personnalisés)
+- Automatisation de processus et exploration des workflows intelligents
 - Développement de produits utiles et exploitables
 
 ---
@@ -49,7 +49,6 @@ Je privilégie :
 - Docker / Dev Containers
 - Git
 - Bases CI/CD
-- n8n (automatisation de workflows)
 
 ---
 
@@ -69,28 +68,27 @@ FastAPI • Next.js • PostgreSQL + extension vectorielle
 
 ---
 
-### ⚙️ Plateforme d’automatisation de workflows
-Système conçu pour automatiser des tâches répétitives et des processus métiers.
+### ⚙️ Plateforme d’automatisation de workflows (en exploration)
+Système en cours de conception pour automatiser des tâches et comprendre les workflows intelligents.
 
-**Fonctionnalités :**
-- Automatisation via API
-- Déclencheurs basés sur événements
-- Intégration de services externes
-- Architecture inspirée de n8n
+**Objectif :**
+- Comprendre les mécanismes d’automatisation
+- Expérimenter les intégrations API
+- Construire une base solide pour des systèmes futurs
 
 ---
 
 ## 📊 Statistiques GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=mihasiniaina&show_icons=true&theme=radical)
 
-![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=radical)
+![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=mihasiniaina&layout=compact&theme=radical)
 
 ---
 
 ## 🧩 Direction actuelle
 - Industrialisation de fonctionnalités IA dans des applications réelles
 - Conception d’architectures backend propres et évolutives
-- Construction de systèmes centrés sur l’automatisation
+- Construction de systèmes centrés sur l’intelligence logicielle et l’automatisation
 
 ---
 
