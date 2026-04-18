@@ -1,100 +1,105 @@
-#  Salut, moi c'est Andrews
+# Andrews
 
-![Typing](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&lines=Frontend+Developer;AI+Enthusiast;RAG+%26+Automation+Builder;Always+Learning)
-
----
-
-##  À propos de moi
-Développeur web passionné par l’intégration de l’intelligence artificielle dans les systèmes modernes (RAG, automatisation, agents intelligents).
-
-Je privilégie les technologies **les plus utilisées et robustes**, mais je reste ouvert à l’apprentissage de nouveaux outils si le projet le nécessite.
+![Typing](https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&lines=Ingénieur+Logiciel;Builder+IA+%26+Automatisation;Focus+RAG+%26+Systèmes+scalables)
 
 ---
 
-##  Objectif
-Créer des projets utiles et concrets dans la vie quotidienne, capables de :
-- simplifier les tâches des utilisateurs
-- automatiser des processus
-- exploiter l’IA de manière intelligente (RAG, assistants, workflows)
+## 🧭 Présentation
+Développeur logiciel spécialisé dans la création de **systèmes web scalables**, avec une forte orientation vers l’intégration de **l’intelligence artificielle (RAG, agents, automatisation)** dans des applications réelles.
+
+Je privilégie :
+- les systèmes robustes et maintenables
+- les technologies éprouvées en production
+- la résolution de problèmes concrets plutôt que la multiplication des outils
 
 ---
 
-##  Vision
-> Construire des systèmes intelligents qui rendent la technologie invisible mais utile.
+## 🎯 Domaines de focus
+- Intégration de l’IA dans des systèmes de production (RAG, LLM, pipelines)
+- Conception d’architectures backend et d’API
+- Automatisation de processus métiers (n8n, workflows personnalisés)
+- Développement de produits utiles et exploitables
 
 ---
 
-##  Tech Stack
+## 🧠 Vision d’ingénierie
+> Construire des systèmes simples à faire évoluer, faciles à maintenir, et réellement utiles en production — pas seulement des démonstrations techniques.
 
-###  Langages
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+---
 
-###  Backend
-- Node.js
-- Express
+## 🛠️ Stack technique
+
+### Backend & systèmes
+- Node.js / Express
 - NestJS
 - FastAPI
+- Python (automatisation & IA)
 
-###  Frontend
+### Frontend
 - React.js
 - Next.js
 
-###  Base de données
+### Données & IA
 - PostgreSQL
 - MySQL
-- Vector DB (pour RAG & IA)
+- Bases vectorielles (systèmes RAG)
+- Architecture basée sur LLM
 
-###  Outils
+### Dev & infrastructure
+- Docker / Dev Containers
 - Git
-- Docker
-- Dev Containers
-- n8n (automation)
+- Bases CI/CD
+- n8n (automatisation de workflows)
 
 ---
 
-##  Projets principaux
+## 🧱 Projets clés
 
-### 🤖 Assistant IA pour archives techniques (RAG System)
-Un système de chat intelligent inspiré des LLM, spécialisé dans la consultation d’archives internes.
+### 🧠 Système de recherche de connaissances IA (RAG)
+Assistant intelligent interne pour interroger des archives techniques.
 
--  Recherche sémantique (vector DB)
--  Architecture RAG
--  Interface chat type AI assistant
+**Fonctionnalités :**
+- Recherche sémantique via base vectorielle
+- Pipeline RAG (récupération + génération)
+- Interface de chat type assistant IA
+- Réponses contextualisées
 
 **Stack :**
 FastAPI • Next.js • PostgreSQL + extension vectorielle
 
 ---
 
-###  Dashboard Admin
-- Interface moderne et responsive
-- Gestion des utilisateurs
-- Statistiques dynamiques
+### ⚙️ Plateforme d’automatisation de workflows
+Système conçu pour automatiser des tâches répétitives et des processus métiers.
 
-**Stack :**
-Next.js • API backend
-
----
-
-##  GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mihasiniaina&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihasiniaina&layout=compact&theme=radical)
+**Fonctionnalités :**
+- Automatisation via API
+- Déclencheurs basés sur événements
+- Intégration de services externes
+- Architecture inspirée de n8n
 
 ---
 
-##  Contribution Snake
-![snake](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+## 📊 Statistiques GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=radical)
+
+![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=radical)
 
 ---
 
-##  Contact
-- 📧 Email : randrewsravalo@gmail.com
-- 💼 LinkedIn : https://www.linkedin.com/in/andrews-richarts-11257a361
+## 🧩 Direction actuelle
+- Industrialisation de fonctionnalités IA dans des applications réelles
+- Conception d’architectures backend propres et évolutives
+- Construction de systèmes centrés sur l’automatisation
 
 ---
 
-⭐ Toujours en train de construire, apprendre et automatiser.
+## 📫 Contact
+- Email : randrewsravalo@gmail.com
+- LinkedIn : https://www.linkedin.com/in/andrews-richarts-11257a361
+
+---
+
+## 🚀 Position actuelle
+Développement actif de systèmes à l’intersection de :
+**Ingénierie logicielle × Intelligence artificielle × Automatisation**
