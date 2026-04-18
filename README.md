@@ -69,7 +69,7 @@ FastAPI • Next.js • PostgreSQL + extension vectorielle
 ---
 
 ### ⚙️ Plateforme d’automatisation de workflows (en exploration)
-Système en cours de conception pour automatiser des tâches et comprendre les workflows intelligents.
+Système en cours de conception pour comprendre et expérimenter les workflows intelligents.
 
 **Objectif :**
 - Comprendre les mécanismes d’automatisation
@@ -82,6 +82,11 @@ Système en cours de conception pour automatiser des tâches et comprendre les w
 ![Stats](https://github-readme-stats.vercel.app/api?username=mihasiniaina&show_icons=true&theme=radical)
 
 ![Langages principaux](https://github-readme-stats.vercel.app/api/top-langs/?username=mihasiniaina&layout=compact&theme=radical)
+
+---
+
+## 🐍 Contributions Snake
+![snake animation](https://raw.githubusercontent.com/mihasiniaina/mihasiniaina/output/github-contribution-grid-snake.svg)
 
 ---
 
