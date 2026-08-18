@@ -51,7 +51,6 @@ Je privilégie :
 ### Dev & infrastructure
 - Docker / Dev Containers
 - Git
-- Bases CI/CD
 
 ---
 
