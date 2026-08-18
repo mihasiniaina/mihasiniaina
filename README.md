@@ -34,7 +34,6 @@ Je privilégie :
 - NestJS
 - FastAPI
 - Python (automatisation & IA)
-- c#
 - Java
 
 ### Frontend
